@@ -85,3 +85,4 @@ The evolution of F1 aerodynamics reflects a constant push for more grip, speed, 
 each technological leap has shaped car design and race strategy. Understanding these phases gives deeper insight into how aerodynamics continues to drive innovation in Formula 1.
 
 
+
