@@ -88,4 +88,5 @@ Technical Analysis:
 
 Summary
 These three cars exemplify key phases in the evolution of F1 aerodynamics: from the groundbreaking ground effect of Lotus 79, through the high-downforce era of the Ferrari F2004, to the hybrid and aerodynamic sophistication of the Mercedes W11. 
+
 Each represents a leap forward in technology that reshaped racing strategy and car design.
